@@ -1,0 +1,7 @@
+node_modules/
+outputs/
+output/
+custom-outputs/
+custom-output/
+coverage/
+test-destination/
